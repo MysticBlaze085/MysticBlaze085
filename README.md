@@ -30,3 +30,5 @@ Ultimately, am a competitive Angular Developer who can design and build a stream
  <p>
   <img width="250" align='right' src="https://raw.githubusercontent.com/MysticBlaze085/MysticBlaze085/master/IMG_3517.jpg">
 </p>
+
+<a href="https://app.daily.dev/melissaslanghausen"><img src="https://api.daily.dev/devcards/b2e3ebc71089441cab74de7892e5b994.png?r=vdg" width="400" alt="Melissa S Langhausen's Dev Card"/></a>
