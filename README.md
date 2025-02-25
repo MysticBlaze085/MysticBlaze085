@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/MysticBlaze085/MysticBlaze085/master/IMG_4445.jpg "Header")](https://seerblazesolutions.com/)
 
+- 🔭 I’m currently working on Angular Ionic Mobile Application
+- 🌱 I’m currently learning Ionic, .NetCore, Angular v19, much more
+
 Hey there 👋,
 
 Have 10* years experience in Front End Development and 3+ years with Angular 6+. Can Implement an exciting and streamlined user experience with Angular in the form of SaaS Enterprise Applications.
