@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Hey there 👋,
 
-Have 10* years experience in Front End Development and 3+ years with Angular 6+. Can Implement an exciting and streamlined user experience with Angular in the form of SaaS Enterprise Applications.
+Have 16* years experience in Front End Development and 6+ years with Angular 6 - 19. Can Implement an exciting and streamlined user experience with Angular in the form of SaaS Enterprise Applications.
 
 As an Angular Developer, I have extensive knowledge of anticipating what is likely to change and what is not, preventing and detecting human errors, also am proficient in JavaScript/Typescript, HTML5, CSS3.
 
